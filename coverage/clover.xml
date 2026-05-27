@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1779809142552" clover="3.2.0">
-  <project timestamp="1779809142552" name="All files">
-    <metrics statements="72" coveredstatements="72" conditionals="46" coveredconditionals="45" methods="27" coveredmethods="27" elements="145" coveredelements="144" complexity="0" loc="72" ncloc="72" packages="1" files="6" classes="6"/>
+<coverage generated="1779893072170" clover="3.2.0">
+  <project timestamp="1779893072170" name="All files">
+    <metrics statements="100" coveredstatements="99" conditionals="66" coveredconditionals="64" methods="38" coveredmethods="38" elements="204" coveredelements="201" complexity="0" loc="100" ncloc="100" packages="1" files="8" classes="8"/>
     <file name="mathBasics.js" path="C:\Users\adria\OneDrive\Desktop\ejercicios testing\src\mathBasics.js">
       <metrics statements="6" coveredstatements="6" conditionals="6" coveredconditionals="6" methods="2" coveredmethods="2"/>
       <line num="3" count="5" type="cond" truecount="4" falsecount="0"/>
@@ -30,6 +30,29 @@
       <line num="29" count="1" type="stmt"/>
       <line num="31" count="6" type="stmt"/>
       <line num="34" count="1" type="stmt"/>
+    </file>
+    <file name="productService.js" path="C:\Users\adria\OneDrive\Desktop\ejercicios testing\src\productService.js">
+      <metrics statements="20" coveredstatements="19" conditionals="16" coveredconditionals="15" methods="7" coveredmethods="7"/>
+      <line num="3" count="15" type="stmt"/>
+      <line num="7" count="3" type="stmt"/>
+      <line num="8" count="3" type="cond" truecount="2" falsecount="0"/>
+      <line num="9" count="2" type="stmt"/>
+      <line num="13" count="2" type="stmt"/>
+      <line num="14" count="4" type="stmt"/>
+      <line num="18" count="4" type="cond" truecount="4" falsecount="0"/>
+      <line num="19" count="2" type="stmt"/>
+      <line num="21" count="2" type="stmt"/>
+      <line num="22" count="2" type="stmt"/>
+      <line num="23" count="5" type="stmt"/>
+      <line num="28" count="6" type="cond" truecount="4" falsecount="0"/>
+      <line num="29" count="3" type="stmt"/>
+      <line num="31" count="3" type="cond" truecount="3" falsecount="1"/>
+      <line num="32" count="0" type="stmt"/>
+      <line num="34" count="3" type="cond" truecount="2" falsecount="0"/>
+      <line num="35" count="2" type="stmt"/>
+      <line num="37" count="1" type="stmt"/>
+      <line num="38" count="1" type="stmt"/>
+      <line num="42" count="1" type="stmt"/>
     </file>
     <file name="stack.js" path="C:\Users\adria\OneDrive\Desktop\ejercicios testing\src\stack.js">
       <metrics statements="9" coveredstatements="9" conditionals="4" coveredconditionals="3" methods="6" coveredmethods="6"/>
@@ -91,6 +114,17 @@
       <line num="15" count="3" type="stmt"/>
       <line num="17" count="2" type="stmt"/>
       <line num="20" count="1" type="stmt"/>
+    </file>
+    <file name="userService.js" path="C:\Users\adria\OneDrive\Desktop\ejercicios testing\src\userService.js">
+      <metrics statements="8" coveredstatements="8" conditionals="4" coveredconditionals="4" methods="4" coveredmethods="4"/>
+      <line num="3" count="4" type="stmt"/>
+      <line num="7" count="3" type="cond" truecount="2" falsecount="0"/>
+      <line num="8" count="2" type="stmt"/>
+      <line num="9" count="2" type="cond" truecount="2" falsecount="0"/>
+      <line num="10" count="1" type="stmt"/>
+      <line num="14" count="1" type="stmt"/>
+      <line num="15" count="3" type="stmt"/>
+      <line num="19" count="1" type="stmt"/>
     </file>
   </project>
 </coverage>
